@@ -26,8 +26,8 @@ function vc_backend_editor_register_pointer( $pointers ) {
 					'target' => '.composer-switch',
 					'options' => array(
 						'content' => sprintf( '<h3> %s </h3> <p> %s </p>',
-							__( 'Welcome to Visual Composer', 'js_composer' ),
-							__( 'Choose Backend or Frontend editor.', 'js_composer' )
+							__( 'به visual composer خوش آمدید', 'js_composer' ),
+							__( 'در صورت تمایل به استفاده از visual composer بر روی دکمه visual composer کلیک کنید', 'js_composer' )
 						),
 						'position' => array(
 							'edge' => 'left',
@@ -40,8 +40,8 @@ function vc_backend_editor_register_pointer( $pointers ) {
 					'target' => '#vc_templates-editor-button, #vc-templatera-editor-button',
 					'options' => array(
 						'content' => sprintf( '<h3> %s </h3> <p> %s </p>',
-							__( 'Add Elements', 'js_composer' ),
-							__( 'Add new element or start with a template.', 'js_composer' )
+							__( 'افزودن آیتم', 'js_composer' ),
+							__( 'به راحتی المان هایی که دوست دارید را به صفحه واکنشگرای این برگه اضافه کنید', 'js_composer' )
 						),
 						'position' => array(
 							'edge' => 'left',

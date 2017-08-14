@@ -3,7 +3,7 @@ if ( ! defined( 'ABSPATH' ) ) {
 	die( '-1' );
 }
 /**
- * WPBakery Visual Composer Shortcodes settings Lazy mapping
+ * WPBakery visual composer Shortcodes settings Lazy mapping
  *
  * @package VPBakeryVisualComposer
  *

@@ -1,6 +1,6 @@
 <?php
 /*
-Plugin Name: WPBakery Visual Composer
+Plugin Name: WPBakery visual composer
 Plugin URI: http://vc.wpbakery.com
 Description: Drag and drop page builder for WordPress. Take full control over your WordPress site, build any layout you can imagine – no programming knowledge required.
 Version: 5.2.1
@@ -49,7 +49,7 @@ class Vc_Manager {
 	 */
 	private $mode = 'none';
 	/**
-	 * Enables Visual Composer to act as the theme plugin.
+	 * Enables visual composer to act as the theme plugin.
 	 *
 	 * @since 4.2
 	 * @var bool
@@ -703,7 +703,7 @@ class Vc_Manager {
 	}
 
 	/**
-	 * Visual Composer.
+	 * visual composer.
 	 *
 	 * @since  4.2
 	 * @access public
@@ -885,7 +885,7 @@ class Vc_Manager {
 }
 
 /**
- * Main Visual composer manager.
+ * Main visual composer manager.
  * @var Vc_Manager $vc_manager - instance of composer management.
  * @since 4.2
  */

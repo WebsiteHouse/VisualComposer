@@ -4,14 +4,14 @@ if ( ! defined( 'ABSPATH' ) ) {
 }
 
 /**
- * WPBakery Visual Composer Main manager.
+ * WPBakery visual composer Main manager.
  *
  * @package WPBakeryVisualComposer
  * @since   4.2
  */
 if ( ! function_exists( 'vc_manager' ) ) {
 	/**
-	 * Visual Composer manager.
+	 * visual composer manager.
 	 * @since 4.2
 	 * @return Vc_Manager
 	 */
@@ -21,7 +21,7 @@ if ( ! function_exists( 'vc_manager' ) ) {
 }
 if ( ! function_exists( 'visual_composer' ) ) {
 	/**
-	 * Visual Composer instance.
+	 * visual composer instance.
 	 * @since 4.2
 	 * @return Vc_Base
 	 */
@@ -41,7 +41,7 @@ if ( ! function_exists( 'vc_mapper' ) ) {
 }
 if ( ! function_exists( 'vc_settings' ) ) {
 	/**
-	 * Shorthand for Visual composer settings.
+	 * Shorthand for visual composer settings.
 	 * @since 4.2
 	 * @return Vc_Settings
 	 */

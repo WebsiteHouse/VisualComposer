@@ -4,7 +4,7 @@ if ( ! defined( 'ABSPATH' ) ) {
 }
 
 /**
- * WPBakery Visual Composer front end editor
+ * WPBakery visual composer front end editor
  *
  * @package WPBakeryVisualComposer
  *

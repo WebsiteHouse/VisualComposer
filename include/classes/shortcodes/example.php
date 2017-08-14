@@ -4,7 +4,7 @@ if ( ! defined( 'ABSPATH' ) ) {
 }
 
 /**
- * An example of how to write WPBakery Visual Composer custom shortcode
+ * An example of how to write WPBakery visual composer custom shortcode
  *
  * To create shortcodes for visual composer you need to complete 2 steps.
  *

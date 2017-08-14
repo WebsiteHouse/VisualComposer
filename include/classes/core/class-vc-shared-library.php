@@ -3,7 +3,7 @@ if ( ! defined( 'ABSPATH' ) ) {
 	die( '-1' );
 }
 
-/*** Visual Composer Content elements refresh ***/
+/*** visual composer Content elements refresh ***/
 class VcSharedLibrary {
 	// Here we will store plugin wise (shared) settings. Colors, Locations, Sizes, etc...
 	/**

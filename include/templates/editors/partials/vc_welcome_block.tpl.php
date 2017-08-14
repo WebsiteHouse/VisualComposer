@@ -81,7 +81,7 @@ $templates_total_count = count( $total_templates );
 		<?php endif; ?>
 		<p class="vc_ui-help-block vc_welcome-visible-e">
 			<?php
-			$targetLink = '<a href="http://kb.wpbakery.com" target="_blank">' . __( 'knowledge base', 'js_composer' ) . '</a>';
+			$targetLink = '<a href="http://websitehouse.ir/learning/%D9%88%DB%8C%DA%98%D9%88%D8%A7%D9%84%20%DA%A9%D8%A7%D9%85%D9%BE%D9%88%D8%B2%D8%B1/%D8%A7%D8%B2-%DA%A9%D8%AC%D8%A7-%D8%A8%D8%A7%DB%8C%D8%AF-%D8%B4%D8%B1%D9%88%D8%B9-%DA%A9%D8%B1%D8%AF" target="_blank">' . __( 'مرکز آموزش', 'js_composer' ) . '</a>';
 			$targetText = __( 'Don\'t know where to start? Visit our %s.', 'js_composer' );
 			$targetText = sprintf( $targetText, $targetLink );
 			echo $targetText;

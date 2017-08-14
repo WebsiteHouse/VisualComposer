@@ -489,8 +489,7 @@ class Vc_Settings {
 					id="wpb_js_not_responsive_css" name="<?php echo self::$field_prefix . 'not_responsive_css' ?>">
 			<?php _e( 'Disable', 'js_composer' ) ?>
 		</label><br/>
-		<p
-				class="description indicator-hint"><?php _e( 'Disable content elements from "stacking" one on top other on small media screens (Example: mobile devices).', 'js_composer' ); ?></p>
+		<p class="description indicator-hint">طراحی واکنشگرا باعث نمایش صحیح وب سایت شما در صفحه های نمایش با سایز های مختلف خواهد شد (برای مثال: لب تاپ، موبایل، تبلت و ...)</p>
 		<?php
 	}
 
@@ -503,7 +502,7 @@ class Vc_Settings {
 			if ( ! in_array( $pt, $this->getGoogleFontsSubsetsExcluded() ) ) {
 				$checked = ( in_array( $pt, $pt_array ) ) ? ' checked' : '';
 				?>
-				<label>
+				<label style="display:none;">
 					<input type="checkbox"<?php echo $checked; ?> value="<?php echo $pt; ?>"
 							id="wpb_js_gf_subsets_<?php echo $pt; ?>"
 							name="<?php echo self::$field_prefix . 'google_fonts_subsets' ?>[]">
@@ -514,7 +513,7 @@ class Vc_Settings {
 		}
 		?>
 		<p
-				class="description indicator-hint"><?php _e( 'Select subsets for Google Fonts available to content elements.', 'js_composer' ); ?></p>
+				class="description indicator-hint"  style="display:none;"><?php _e( 'Select subsets for Google Fonts available to content elements.', 'js_composer' ); ?></p>
 		<?php
 	}
 
@@ -668,7 +667,7 @@ class Vc_Settings {
 		if ( 'wpb_js_composer_settings_color' === $tab['id'] ) : ?>
 			<div class="tab_intro">
 				<p>
-					<?php _e( 'Here you can tweak default Visual Composer content elements visual appearance. By default Visual Composer is using neutral light-grey theme. Changing "Main accent color" will affect all content elements if no specific "content block" related color is set.', 'js_composer' ) ?>
+					<?php _e( 'Here you can tweak default visual composer content elements visual appearance. By default visual composer is using neutral light-grey theme. Changing "Main accent color" will affect all content elements if no specific "content block" related color is set.', 'js_composer' ) ?>
 				</p>
 			</div>
 		<?php endif;

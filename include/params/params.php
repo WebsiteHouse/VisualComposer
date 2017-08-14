@@ -4,7 +4,7 @@ if ( ! defined( 'ABSPATH' ) ) {
 }
 
 /**
- * WPBakery Visual Composer shortcodes attributes class.
+ * WPBakery visual composer shortcodes attributes class.
  *
  * This class and functions represents ability which will allow you to create attributes settings fields to
  * control new attributes.

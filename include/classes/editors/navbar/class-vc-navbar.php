@@ -90,9 +90,7 @@ class Vc_Navbar implements Vc_Render {
 	 * @return mixed|void
 	 */
 	public function getLogo() {
-		$output = '<a id="vc_logo" class="vc_navbar-brand" title="' . __( 'Visual Composer', 'js_composer' )
-		          . '" href="' . esc_attr( $this->brand_url ) . '" target="_blank">'
-		          . __( 'Visual Composer', 'js_composer' ) . '</a>';
+		$output = '<a id="vc_logo" class="vc_navbar-brand" title="وب سایت هاوس" href="http://websitehouse.ir" target="_blank">وب سایت هاوس</a>';
 
 		return apply_filters( 'vc_nav_front_logo', $output );
 	}
@@ -117,7 +115,7 @@ class Vc_Navbar implements Vc_Render {
 	 */
 	public function getControlFullscreen() {
 		return '<li class="vc_show-mobile vc_pull-right">'
-		       . '<a id="vc_fullscreen-button" class="vc_icon-btn vc_fullscreen-button" title="'. __( 'Full screen', 'js_composer' ) . '"><i class="vc-composer-icon vc-c-icon-fullscreen"></i></a>'
+		       . '<a style="display:none;" id="vc_fullscreen-button" class="vc_icon-btn vc_fullscreen-button" title="'. __( 'Full screen', 'js_composer' ) . '"><i class="vc-composer-icon vc-c-icon-fullscreen"></i></a>'
 		       . '</li>';
 	}
 
@@ -125,7 +123,7 @@ class Vc_Navbar implements Vc_Render {
 	 * @return string
 	 */
 	public function getControlWindowed() {
-		return '<li class="vc_show-mobile vc_pull-right">'
+		return '<li style="display:none;" class="vc_show-mobile vc_pull-right">'
 		       . '<a id="vc_windowed-button" class="vc_icon-btn vc_windowed-button" title="'. __( 'Exit full screen', 'js_composer' ) . '"><i class="vc-composer-icon vc-c-icon-fullscreen_exit"></i></a>'
 		       . '</li>';
 	}

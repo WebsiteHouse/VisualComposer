@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: Visual Composer\n"
+"Project-Id-Version: visual composer\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-11-09 10:22+0200\n"
 "PO-Revision-Date: 2016-11-09 10:22+0200\n"
@@ -3724,7 +3724,7 @@ msgstr ""
 #: config/./content/vc-custom-heading-element.php:32
 msgid ""
 "Note: If you are using non-latin characters be sure to activate them under "
-"Settings/Visual Composer/General Settings."
+"Settings/visual composer/General Settings."
 msgstr ""
 
 #: config/./content/vc-custom-heading-element.php:42
@@ -5941,7 +5941,7 @@ msgid "Filter:"
 msgstr ""
 
 #: include/./autoload/vc-pointers-backend-editor.php:29
-msgid "Welcome to Visual Composer"
+msgid "Welcome to visual composer"
 msgstr ""
 
 #: include/./autoload/vc-pointers-backend-editor.php:30
@@ -5994,7 +5994,7 @@ msgstr ""
 #: include/./autoload/vc-pages/page-design-options.php:42
 #: include/./autoload/vc-pages/page-design-options.php:45
 msgid ""
-"You have an outdated version of Visual Composer Design Options. It is "
+"You have an outdated version of visual composer Design Options. It is "
 "required to review and save it."
 msgstr ""
 
@@ -6016,7 +6016,7 @@ msgstr ""
 #: include/./classes/editors/class-vc-backend-editor.php:81
 #: include/./classes/editors/navbar/class-vc-navbar.php:93
 #: include/./classes/editors/navbar/class-vc-navbar.php:95
-msgid "Visual Composer"
+msgid "visual composer"
 msgstr "ビジュアルコンポザー"
 
 #: include/./autoload/vc-pages/welcome-screen.php:38
@@ -6094,11 +6094,11 @@ msgstr ""
 
 #: include/./classes/core/class-vc-base.php:670
 #: include/./templates/pages/vc-settings/index.php:7
-msgid "Visual Composer Settings"
+msgid "visual composer Settings"
 msgstr "ビジュアルコンポザー設定"
 
 #: include/./classes/core/class-vc-base.php:673
-msgid "About Visual Composer"
+msgid "About visual composer"
 msgstr ""
 
 #: include/./classes/core/class-vc-base.php:827
@@ -6540,7 +6540,7 @@ msgstr "編集"
 
 #: include/./classes/editors/class-vc-frontend-editor.php:457
 #, php-format
-msgid "Edit %s with Visual Composer"
+msgid "Edit %s with visual composer"
 msgstr "ビジュアルコンポザーの %s で編集"
 
 #: include/./classes/editors/class-vc-frontend-editor.php:466
@@ -6550,7 +6550,7 @@ msgstr "（タイトルなし）"
 #: include/./classes/editors/class-vc-frontend-editor.php:483
 #: include/./classes/editors/class-vc-frontend-editor.php:498
 #: include/./classes/editors/class-vc-frontend-editor.php:535
-msgid "Edit with Visual Composer"
+msgid "Edit with visual composer"
 msgstr "ビジュアルコンポーザーで編集"
 
 #: include/./classes/editors/navbar/class-vc-navbar-frontend.php:44
@@ -6606,7 +6606,7 @@ msgid "Submit for Review"
 msgstr "レビュー用に送信"
 
 #: include/./classes/editors/navbar/class-vc-navbar-frontend.php:164
-msgid "Exit Visual Composer edit mode"
+msgid "Exit visual composer edit mode"
 msgstr "ビジュアルコンポザーの編集モードを終了"
 
 #: include/./classes/editors/navbar/class-vc-navbar.php:109
@@ -6722,8 +6722,8 @@ msgstr ""
 
 #: include/./classes/settings/class-vc-automapper.php:217
 msgid ""
-"Visual Composer Shortcode Mapper adds custom 3rd party vendors shortcodes to "
-"the list of Visual Composer content elements menu (Note: to map shortcode it "
+"visual composer Shortcode Mapper adds custom 3rd party vendors shortcodes to "
+"the list of visual composer content elements menu (Note: to map shortcode it "
 "needs to be installed on site)."
 msgstr ""
 
@@ -6885,11 +6885,11 @@ msgid "Enter description for parameter."
 msgstr ""
 
 #: include/./classes/settings/class-vc-license.php:118
-msgid "Visual Composer successfully activated."
+msgid "visual composer successfully activated."
 msgstr ""
 
 #: include/./classes/settings/class-vc-license.php:125
-msgid "Visual Composer successfully deactivated."
+msgid "visual composer successfully deactivated."
 msgstr ""
 
 #: include/./classes/settings/class-vc-license.php:142
@@ -6913,7 +6913,7 @@ msgstr ""
 #, php-format
 msgid ""
 "Hola! Would you like to receive automatic updates and unlock premium "
-"support? Please <a href=\"%s\">activate your copy</a> of Visual Composer."
+"support? Please <a href=\"%s\">activate your copy</a> of visual composer."
 msgstr ""
 
 #: include/./classes/settings/class-vc-license.php:560
@@ -7076,19 +7076,19 @@ msgid "Please enter valid shortcode to parse!"
 msgstr "解析するために有効なショートコードを入力してください！"
 
 #: include/./classes/settings/class-vc-settings.php:491
-msgid "Show Visual Composer & default editor"
+msgid "Show visual composer & default editor"
 msgstr "ビジュアルコンポーザー & デフォルトのエディタを表示"
 
 #: include/./classes/settings/class-vc-settings.php:492
-msgid "Show only Visual Composer"
+msgid "Show only visual composer"
 msgstr "ビジュアルコンポーザーのみを表示"
 
 #: include/./classes/settings/class-vc-settings.php:493
-msgid "Don't allow to use Visual Composer"
+msgid "Don't allow to use visual composer"
 msgstr "ビジュアルコンポーザーの使用を許可しないでください"
 
 #: include/./classes/settings/class-vc-settings.php:514
-msgid "Visual Composer access"
+msgid "visual composer access"
 msgstr "ビジュアルコンポーザーアクセス"
 
 #: include/./classes/settings/class-vc-settings.php:524
@@ -7114,7 +7114,7 @@ msgstr ""
 
 #: include/./classes/settings/class-vc-settings.php:594
 #: include/./classes/settings/class-vc-settings.php:620
-msgid "Select content types available to Visual Composer."
+msgid "Select content types available to visual composer."
 msgstr ""
 
 #: include/./classes/settings/class-vc-settings.php:631
@@ -7163,13 +7163,13 @@ msgstr ""
 
 #: include/./classes/settings/class-vc-settings.php:847
 msgid ""
-"Here you can tweak default Visual Composer content elements visual "
-"appearance. By default Visual Composer is using neutral light-grey theme. "
+"Here you can tweak default visual composer content elements visual "
+"appearance. By default visual composer is using neutral light-grey theme. "
 "Changing \"Main accent color\" will affect all content elements if no "
 "specific \"content block\" related color is set."
 msgstr ""
-"ここではVisual Composerのコンテンツ要素を視覚的な外観をデフォルト微調整するこ"
-"とができます。既定のVisual Composerでニュートラルライトグレーのテーマを使用し"
+"ここではvisual composerのコンテンツ要素を視覚的な外観をデフォルト微調整するこ"
+"とができます。既定のvisual composerでニュートラルライトグレーのテーマを使用し"
 "ています。具体的な \"content block\" に関連する色が設定されていない場合"
 "は、\"Main accent color\" を変更するとすべてのコンテンツ要素に影響します。"
 
@@ -7509,7 +7509,7 @@ msgstr ""
 
 #: include/./classes/updaters/class-vc-updater.php:138
 #: include/./classes/updaters/class-vc-updating-manager.php:174
-msgid "Got Visual Composer in theme?"
+msgid "Got visual composer in theme?"
 msgstr ""
 
 #: include/./classes/updaters/class-vc-updater.php:141
@@ -7544,7 +7544,7 @@ msgstr ""
 #, php-format
 msgid ""
 "To receive automatic updates license activation is required. Please visit %s "
-"to activate your Visual Composer."
+"to activate your visual composer."
 msgstr ""
 
 #: include/./classes/vendors/plugins/class-vc-vendor-contact-form7.php:49
@@ -9512,13 +9512,13 @@ msgstr "現在のレイアウトに既定のテンプレートを追加"
 #: include/./templates/editors/popups/vc_ui-panel-add-element.tpl.php:25
 msgid ""
 "Elements within this list are deprecated and are no longer supported in "
-"newer versions of Visual Composer."
+"newer versions of visual composer."
 msgstr ""
 
 #: include/./templates/editors/popups/vc_ui-panel-add-element.tpl.php:32
 msgid ""
 "Your user role have restricted access to content elements. If required, "
-"contact your site administrator to change Visual Composer Role Manager "
+"contact your site administrator to change visual composer Role Manager "
 "settings for your user role."
 msgstr ""
 
@@ -9572,13 +9572,13 @@ msgstr ""
 
 #: include/./templates/editors/popups/shared-templates/category.tpl.php:32
 #: include/./templates/pages/vc-settings/tab.php:112
-msgid "Activate Visual Composer"
+msgid "Activate visual composer"
 msgstr ""
 
 #: include/./templates/editors/popups/shared-templates/category.tpl.php:33
 msgid ""
-"Visual Composer Template Library downloads are available for activated"
-"\tversions only. Activate Visual Composer direct license to access Template "
+"visual composer Template Library downloads are available for activated"
+"\tversions only. Activate visual composer direct license to access Template "
 "Library and receive other benefits."
 msgstr ""
 
@@ -9607,10 +9607,10 @@ msgstr ""
 
 #: include/./templates/editors/popups/shared-templates/category.tpl.php:109
 msgid ""
-"Access Visual Composer Template Library for unique layout\n"
+"Access visual composer Template Library for unique layout\n"
 "\t\ttemplates. Download chosen templates and discover new layouts with "
 "regular template\n"
-"\t\tupdates from Visual Composer team."
+"\t\tupdates from visual composer team."
 msgstr ""
 
 #: include/./templates/editors/popups/shared-templates/category.tpl.php:113
@@ -9663,7 +9663,7 @@ msgstr ""
 
 #: include/./templates/pages/partials/vc-roles-parts/_post_settings.tpl.php:15
 msgid ""
-"Control access to Visual Composer page settings. Note: Disable page settings "
+"Control access to visual composer page settings. Note: Disable page settings "
 "to restrict editing of Custom CSS through page."
 msgstr ""
 
@@ -9673,8 +9673,8 @@ msgstr ""
 
 #: include/./templates/pages/partials/vc-roles-parts/_post_types.tpl.php:20
 msgid ""
-"Enable Visual Composer for pages, posts and custom post types. Note: By "
-"default Visual Composer is available for pages only."
+"Enable visual composer for pages, posts and custom post types. Note: By "
+"default visual composer is available for pages only."
 msgstr ""
 
 #: include/./templates/pages/partials/vc-roles-parts/_presets.tpl.php:12
@@ -9699,7 +9699,7 @@ msgstr ""
 
 #: include/./templates/pages/partials/vc-roles-parts/_settings.tpl.php:23
 msgid ""
-"Control access rights to Visual Composer admin settings tabs (e.g. General "
+"Control access rights to visual composer admin settings tabs (e.g. General "
 "Settings, Shortcode Mapper, ...)"
 msgstr ""
 
@@ -9771,20 +9771,20 @@ msgstr ""
 
 #: include/./templates/pages/vc-settings/tab.php:80
 msgid ""
-"You have activated Visual Composer version which allows you to access all "
-"the customer benefits. Thank you for choosing Visual Composer as your page "
-"builder. If you do not wish to use Visual Composer on this WordPress site "
+"You have activated visual composer version which allows you to access all "
+"the customer benefits. Thank you for choosing visual composer as your page "
+"builder. If you do not wish to use visual composer on this WordPress site "
 "you can deactivate your license below."
 msgstr ""
 
 #: include/./templates/pages/vc-settings/tab.php:91
-msgid "Deactivate Visual Composer"
+msgid "Deactivate visual composer"
 msgstr ""
 
 #: include/./templates/pages/vc-settings/tab.php:101
 msgid ""
-"In order to receive all benefits of Visual Composer, you need to activate "
-"your copy of the plugin. By activating Visual Composer license you will "
+"In order to receive all benefits of visual composer, you need to activate "
+"your copy of the plugin. By activating visual composer license you will "
 "unlock premium options - <strong>direct plugin updates</strong>, access to "
 "<strong>template library</strong> and <strong>official support.</strong>"
 msgstr ""
@@ -9793,12 +9793,12 @@ msgstr ""
 #, php-format
 msgid ""
 "Don't have direct license yet? <a href=\"%s\" target=\"_blank\">Purchase "
-"Visual Composer license</a>."
+"visual composer license</a>."
 msgstr ""
 
 #: include/./templates/pages/vc-welcome/index.php:8
 #, php-format
-msgid "Welcome to Visual Composer %s"
+msgid "Welcome to visual composer %s"
 msgstr ""
 
 #: include/./templates/pages/vc-welcome/index.php:11
@@ -9813,7 +9813,7 @@ msgid "Version %s"
 msgstr ""
 
 #: include/./templates/pages/vc-welcome/vc-faq.php:7
-msgid "New to Visual Composer or Looking for More Information?"
+msgid "New to visual composer or Looking for More Information?"
 msgstr ""
 
 #: include/./templates/pages/vc-welcome/vc-faq.php:9
@@ -9821,7 +9821,7 @@ msgstr ""
 msgid ""
 "WPBakery has complete documentation available at our knowledge base: <a "
 "target=\"_blank\" href=\"%s\">kb.wpbakery.com</a> which covers everything "
-"related to Visual Composer starting from Installation and up to more "
+"related to visual composer starting from Installation and up to more "
 "advanced features based on our Inner API."
 msgstr ""
 
@@ -9831,7 +9831,7 @@ msgstr ""
 
 #: include/./templates/pages/vc-welcome/vc-resources.php:11
 msgid ""
-"There are several resources available to Visual Composer users to help you "
+"There are several resources available to visual composer users to help you "
 "to get around plugin:"
 msgstr ""
 
@@ -9859,7 +9859,7 @@ msgid ""
 msgstr ""
 
 #: include/./templates/pages/vc-welcome/vc-welcome.php:11
-msgid "Visual Composer Template Library"
+msgid "visual composer Template Library"
 msgstr ""
 
 #: include/./templates/pages/vc-welcome/vc-welcome.php:13
@@ -9911,11 +9911,11 @@ msgstr ""
 #, php-format
 msgid ""
 "Responsive design settings are currently disabled. You can enable them in "
-"Visual Composer <a href=\"%s\">settings page</a> by unchecking \"Disable "
+"visual composer <a href=\"%s\">settings page</a> by unchecking \"Disable "
 "responsive content elements\"."
 msgstr ""
 "レスポンシブデザインの設定は現在無効になっています。あなたがこのチェックを外"
-"すことでVisual Composerの<a href=\"%s\">設定ページ</a>で\"Disable responsive "
+"すことでvisual composerの<a href=\"%s\">設定ページ</a>で\"Disable responsive "
 "content elements\"からそれらを有効にすることができます "
 
 #: include/./templates/params/column_offset/template.tpl.php:24
@@ -10004,8 +10004,8 @@ msgstr "つぶやき"
 #~ msgid "Download new version from CodeCanyon."
 #~ msgstr "CodeCanyonから新しいバージョンをダウンロードしてください。"
 
-#~ msgid "Update Visual Composer now."
-#~ msgstr "Visual Composerを更新します"
+#~ msgid "Update visual composer now."
+#~ msgstr "visual composerを更新します"
 
 #~ msgid "Form title"
 #~ msgstr "フォームタイトル"
@@ -10509,9 +10509,9 @@ msgstr "つぶやき"
 
 #~ msgid ""
 #~ "If you are using non-latin characters be sure to activate them under "
-#~ "Settings/Visual Composer/General Settings."
+#~ "Settings/visual composer/General Settings."
 #~ msgstr ""
-#~ "あなたは非ラテン文字を使用している場合は設定/ Visual Composer/一般設定でそ"
+#~ "あなたは非ラテン文字を使用している場合は設定/ visual composer/一般設定でそ"
 #~ "れらをアクティブにしてください。"
 
 #~ msgid "0px"
@@ -10602,13 +10602,13 @@ msgstr "つぶやき"
 #~ msgstr "現在のレイアウトに、以前に保存したテンプレートを追加"
 
 #~ msgid ""
-#~ "Use Visual Composer Shortcode Mapper in order to add your custom or 3rd "
-#~ "party vendors shortcodes to the list of Visual Composer elements menu. In "
+#~ "Use visual composer Shortcode Mapper in order to add your custom or 3rd "
+#~ "party vendors shortcodes to the list of visual composer elements menu. In "
 #~ "order to map shortcode you need it to be already installed on your "
 #~ "WordPress site."
 #~ msgstr ""
-#~ "お使いのカスタムまたはサードパーティは、Visual Composerの要素メニューの一"
-#~ "覧にショートコードのベンダーに追加するために、Visual Composerのショート"
+#~ "お使いのカスタムまたはサードパーティは、visual composerの要素メニューの一"
+#~ "覧にショートコードのベンダーに追加するために、visual composerのショート"
 #~ "コードマッパーを使用してください。ショートコードを登録するためには、それを"
 #~ "WordPressのサイトにインストールする必要があります。"
 
@@ -10642,10 +10642,10 @@ msgstr "つぶやき"
 #~ msgstr "パラメータを説明する"
 
 #~ msgid ""
-#~ "Hola! Please <a href=\"%s\">activate your copy</a> of Visual Composer to "
+#~ "Hola! Please <a href=\"%s\">activate your copy</a> of visual composer to "
 #~ "receive automatic updates."
 #~ msgstr ""
-#~ "ようこそ！ 自動更新を受け取るためにVisual Composerの<a href=\"%s\">コピー"
+#~ "ようこそ！ 自動更新を受け取るためにvisual composerの<a href=\"%s\">コピー"
 #~ "をアクティブ</a> にする。 "
 
 #~ msgid "Content types"
@@ -10660,7 +10660,7 @@ msgstr "つぶやき"
 #~ msgid "Secret API Key"
 #~ msgstr "シークレットAPIキー"
 
-#~ msgid "Visual Composer License Key"
+#~ msgid "visual composer License Key"
 #~ msgstr "ビジュアルコンポーザーライセンスキー"
 
 #~ msgid "Something went wrong! Please try again later."
@@ -10700,7 +10700,7 @@ msgstr "つぶやき"
 #~ msgstr "ライセンスを非アクティブ化"
 
 #~ msgid ""
-#~ "Select for which content types Visual Composer should be available during "
+#~ "Select for which content types visual composer should be available during "
 #~ "post creation/editing."
 #~ msgstr ""
 #~ "そのためにコンテンツタイプのビジュアルコンポーザーは、投稿の作成/編集時に"
@@ -10756,12 +10756,12 @@ msgstr "つぶやき"
 #~ msgstr "あなたのEnvatoのユーザ名"
 
 #~ msgid ""
-#~ "Please enter your CodeCanyon Visual Composer license key, you can find "
+#~ "Please enter your CodeCanyon visual composer license key, you can find "
 #~ "your key by following the instructions on <a href=\"%s\" target=\"_blank"
 #~ "\">this page</a>. License key looks similar to this: bjg759fk-"
 #~ "kvta-6584-94h6-75jg8vblatftq."
 #~ msgstr ""
-#~ "あなたのCodeCanyon Visual Composerのライセンスキーを入力してください。あな"
+#~ "あなたのCodeCanyon visual composerのライセンスキーを入力してください。あな"
 #~ "たは<a href=\"%s\" target=\"_blank\">このページ</a>の指示に従って、あなた"
 #~ "の鍵を見つけることができます。ライセンスキーは次のようになります。"
 #~ "bjg759fk-kvta-6584-94h6-75jg8vblatftq。"
@@ -10778,7 +10778,7 @@ msgstr "つぶやき"
 
 #~ msgid ""
 #~ "A valid license key qualifies you for support and enables automatic "
-#~ "updates. <strong>A license key may only be used for one Visual Composer "
+#~ "updates. <strong>A license key may only be used for one visual composer "
 #~ "installation on one WordPress site at a time.</strong> If you previosly "
 #~ "activated your license key on another site, then you should deactivate it "
 #~ "first or <a href=\"%s\" target=\"_blank\">obtain new license key</a>."
@@ -10791,7 +10791,7 @@ msgstr "つぶやき"
 #~ "キー</a>を得る。"
 
 #~ msgid ""
-#~ "Visual Composer: Your css class names settings are deprecated. <a href="
+#~ "visual composer: Your css class names settings are deprecated. <a href="
 #~ "\"%s\">Click here to resolve</a>."
 #~ msgstr ""
 #~ "ビジュアルコンポーザー：あなたのCSSクラス名の設定が推奨されません。 解決す"
@@ -10799,12 +10799,12 @@ msgstr "つぶやき"
 
 #~ msgid ""
 #~ "<strong>Deprecated:</strong> To override class names that are applied to "
-#~ "Visual Composer content elements you should use WordPress add_filter"
+#~ "visual composer content elements you should use WordPress add_filter"
 #~ "('vc_shortcodes_css_class') function. <a class='vc_show_example'>See "
 #~ "Example</a>."
 #~ msgstr ""
 #~ "<strong>非推奨</strong>：あなたはWordPressのADD_FILTER"
-#~ "（ 'vc_shortcodes_css_class'）関数を使用する必要がありますVisual Composer"
+#~ "（ 'vc_shortcodes_css_class'）関数を使用する必要がありますvisual composer"
 #~ "のコンテンツ要素に適用されるクラス名を上書きするには <a "
 #~ "class='vc_show_example'>例を参照してください</a>"
 

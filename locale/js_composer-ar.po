@@ -4,7 +4,7 @@
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 msgid ""
 msgstr ""
-"Project-Id-Version: Visual Composer\n"
+"Project-Id-Version: visual composer\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-06-22 14:41+0300\n"
 "PO-Revision-Date: 2017-06-22 14:41+0300\n"
@@ -3578,7 +3578,7 @@ msgstr "هذا هو العنصر البند المخصص"
 #: config/./content/vc-custom-heading-element.php:32
 msgid ""
 "Note: If you are using non-latin characters be sure to activate them under "
-"Settings/Visual Composer/General Settings."
+"Settings/visual composer/General Settings."
 msgstr ""
 "ملاحظة: إذا كنت تستخدم أحرف غير لاتينية تأكد من تفعيلها ضمن إعدادات / المحرر "
 "المتطور / الإعدادات العامة."
@@ -6857,10 +6857,10 @@ msgstr "تنبيهات هامة"
 #: include/./autoload/vc-pages/page-design-options.php:42
 #: include/./autoload/vc-pages/page-design-options.php:45
 msgid ""
-"You have an outdated version of Visual Composer Design Options. It is "
+"You have an outdated version of visual composer Design Options. It is "
 "required to review and save it."
 msgstr ""
-"لديك إصدار تصميم قديم من خيارات ال Visual Composer . يتوجب عليك الترقية الان "
+"لديك إصدار تصميم قديم من خيارات ال visual composer . يتوجب عليك الترقية الان "
 
 # Label: auto
 #: include/./autoload/vc-pages/page-design-options.php:56
@@ -6882,7 +6882,7 @@ msgstr "ادارة الادوار"
 #: include/./classes/editors/class-vc-backend-editor.php:81
 #: include/./classes/editors/navbar/class-vc-navbar.php:93
 #: include/./classes/editors/navbar/class-vc-navbar.php:95
-msgid "Visual Composer"
+msgid "visual composer"
 msgstr "المحرر المتطور"
 
 # Label: auto
@@ -6902,7 +6902,7 @@ msgid "Resources"
 msgstr "المصادر"
 
 #: include/./autoload/vc-pointers-backend-editor.php:29
-msgid "Welcome to Visual Composer"
+msgid "Welcome to visual composer"
 msgstr "اهلا بك في المحرر المتطور"
 
 #: include/./autoload/vc-pointers-backend-editor.php:30
@@ -7030,14 +7030,14 @@ msgstr ""
 # Label: auto
 #: include/./classes/core/class-vc-base.php:670
 #: include/./templates/pages/vc-settings/index.php:7
-msgid "Visual Composer Settings"
+msgid "visual composer Settings"
 msgstr "خيارات المحرر المتطور"
 
 # Label: auto
 #: include/./classes/core/class-vc-base.php:673
 #, fuzzy
-#| msgid "Visual Composer"
-msgid "About Visual Composer"
+#| msgid "visual composer"
+msgid "About visual composer"
 msgstr "المحرر المتطور"
 
 # Label: auto
@@ -7539,7 +7539,7 @@ msgstr "تعديل"
 # Label: auto
 #: include/./classes/editors/class-vc-frontend-editor.php:457
 #, php-format
-msgid "Edit %s with Visual Composer"
+msgid "Edit %s with visual composer"
 msgstr "تعديل %s بالمحرر المتطور"
 
 # Label: auto
@@ -7551,7 +7551,7 @@ msgstr "(بدون عنوان)"
 #: include/./classes/editors/class-vc-frontend-editor.php:483
 #: include/./classes/editors/class-vc-frontend-editor.php:498
 #: include/./classes/editors/class-vc-frontend-editor.php:535
-msgid "Edit with Visual Composer"
+msgid "Edit with visual composer"
 msgstr "تحرير الصفحة بواسطة المحرر المتطور"
 
 #: include/./classes/editors/navbar/class-vc-navbar-frontend.php:44
@@ -7615,7 +7615,7 @@ msgid "Submit for Review"
 msgstr "ارسل للمراجعه"
 
 #: include/./classes/editors/navbar/class-vc-navbar-frontend.php:164
-msgid "Exit Visual Composer edit mode"
+msgid "Exit visual composer edit mode"
 msgstr "الخروج من وضع التحرير في المحرر المتطور"
 
 # Label: auto
@@ -7751,8 +7751,8 @@ msgstr "خريطة الاكواد المختصرة"
 
 #: include/./classes/settings/class-vc-automapper.php:217
 msgid ""
-"Visual Composer Shortcode Mapper adds custom 3rd party vendors shortcodes to "
-"the list of Visual Composer content elements menu (Note: to map shortcode it "
+"visual composer Shortcode Mapper adds custom 3rd party vendors shortcodes to "
+"the list of visual composer content elements menu (Note: to map shortcode it "
 "needs to be installed on site)."
 msgstr ""
 "يضيف المحرر المتطور خريطة اكواد مختصرة الى المطورين للاضافات الطرف الثالث : "
@@ -7944,13 +7944,13 @@ msgstr "أدخل وصف للمعلمة.parameter."
 #: include/./classes/settings/class-vc-license.php:118
 #, fuzzy
 #| msgid "License successfully activated."
-msgid "Visual Composer successfully activated."
+msgid "visual composer successfully activated."
 msgstr "تم الترخيص بنجاح شكرا لك "
 
 #: include/./classes/settings/class-vc-license.php:125
 #, fuzzy
 #| msgid "License successfully activated."
-msgid "Visual Composer successfully deactivated."
+msgid "visual composer successfully deactivated."
 msgstr "تم الترخيص بنجاح شكرا لك "
 
 #: include/./classes/settings/class-vc-license.php:142
@@ -7980,7 +7980,7 @@ msgstr "قمية هامش خاطئه"
 #, php-format
 msgid ""
 "Hola! Would you like to receive automatic updates and unlock premium support? "
-"Please <a href=\"%s\">activate your copy</a> of Visual Composer."
+"Please <a href=\"%s\">activate your copy</a> of visual composer."
 msgstr ""
 
 #: include/./classes/settings/class-vc-license.php:560
@@ -8166,22 +8166,22 @@ msgstr "الرجاء ادخال كود قصير صحيح لتحليلة"
 
 # Label: auto
 #: include/./classes/settings/class-vc-settings.php:491
-msgid "Show Visual Composer & default editor"
+msgid "Show visual composer & default editor"
 msgstr "اعرض المحرر المتطور وكذلك المحرر العادى"
 
 # Label: auto
 #: include/./classes/settings/class-vc-settings.php:492
-msgid "Show only Visual Composer"
+msgid "Show only visual composer"
 msgstr "اعرض فقط المحرر المتطور"
 
 # Label: auto
 #: include/./classes/settings/class-vc-settings.php:493
-msgid "Don't allow to use Visual Composer"
+msgid "Don't allow to use visual composer"
 msgstr "لا تسمح باستخدام المحرر المتطور"
 
 # Label: auto
 #: include/./classes/settings/class-vc-settings.php:514
-msgid "Visual Composer access"
+msgid "visual composer access"
 msgstr "خيارات الوصول للمحرر المتطور"
 
 # Label: auto
@@ -8210,7 +8210,7 @@ msgstr "تحديد قواعد الوصول لمجموعات المستخدمين
 
 #: include/./classes/settings/class-vc-settings.php:594
 #: include/./classes/settings/class-vc-settings.php:620
-msgid "Select content types available to Visual Composer."
+msgid "Select content types available to visual composer."
 msgstr "حدد أنواع المحتوى المتاحة للمحرر المتطور"
 
 #: include/./classes/settings/class-vc-settings.php:631
@@ -8266,8 +8266,8 @@ msgstr ""
 
 #: include/./classes/settings/class-vc-settings.php:847
 msgid ""
-"Here you can tweak default Visual Composer content elements visual "
-"appearance. By default Visual Composer is using neutral light-grey theme. "
+"Here you can tweak default visual composer content elements visual "
+"appearance. By default visual composer is using neutral light-grey theme. "
 "Changing \"Main accent color\" will affect all content elements if no "
 "specific \"content block\" related color is set."
 msgstr ""
@@ -8652,8 +8652,8 @@ msgstr ""
 #: include/./classes/updaters/class-vc-updater.php:138
 #: include/./classes/updaters/class-vc-updating-manager.php:174
 #, fuzzy
-#| msgid "Exit Visual Composer edit mode"
-msgid "Got Visual Composer in theme?"
+#| msgid "Exit visual composer edit mode"
+msgid "Got visual composer in theme?"
 msgstr "الخروج من وضع التحرير في المحرر المتطور"
 
 #: include/./classes/updaters/class-vc-updater.php:141
@@ -8698,7 +8698,7 @@ msgstr "(الإعدادات)"
 #| "<a href=\""
 msgid ""
 "To receive automatic updates license activation is required. Please visit %s "
-"to activate your Visual Composer."
+"to activate your visual composer."
 msgstr ""
 "للحصول على التحديثات التلقائية يتوجب عليك تفعيل الترخيص. يرجى زيارة <a href=\""
 
@@ -10867,14 +10867,14 @@ msgstr "إلحاق القالب الافتراضي إلى التخطيط الح�
 #: include/./templates/editors/popups/shared-templates/category.tpl.php:32
 #: include/./templates/pages/vc-settings/tab.php:112
 #, fuzzy
-#| msgid "Edit with Visual Composer"
-msgid "Activate Visual Composer"
+#| msgid "Edit with visual composer"
+msgid "Activate visual composer"
 msgstr "تحرير الصفحة بواسطة المحرر المتطور"
 
 #: include/./templates/editors/popups/shared-templates/category.tpl.php:33
 msgid ""
-"Visual Composer Template Library downloads are available for activated"
-"\tversions only. Activate Visual Composer direct license to access Template "
+"visual composer Template Library downloads are available for activated"
+"\tversions only. Activate visual composer direct license to access Template "
 "Library and receive other benefits."
 msgstr ""
 
@@ -10912,10 +10912,10 @@ msgstr "تحميل القالب"
 
 #: include/./templates/editors/popups/shared-templates/category.tpl.php:109
 msgid ""
-"Access Visual Composer Template Library for unique layout\n"
+"Access visual composer Template Library for unique layout\n"
 "\t\ttemplates. Download chosen templates and discover new layouts with "
 "regular template\n"
-"\t\tupdates from Visual Composer team."
+"\t\tupdates from visual composer team."
 msgstr ""
 
 # Label: auto
@@ -10934,7 +10934,7 @@ msgstr "قوالب الشبكة"
 #: include/./templates/editors/popups/vc_ui-panel-add-element.tpl.php:25
 msgid ""
 "Elements within this list are deprecated and are no longer supported in newer "
-"versions of Visual Composer."
+"versions of visual composer."
 msgstr ""
 "يتم إهمال عناصر داخل هذه القائمة ولم تعد معتمدة في إصدارات أحدث من المحرر "
 "المتطور"
@@ -10942,7 +10942,7 @@ msgstr ""
 #: include/./templates/editors/popups/vc_ui-panel-add-element.tpl.php:32
 msgid ""
 "Your user role have restricted access to content elements. If required, "
-"contact your site administrator to change Visual Composer Role Manager "
+"contact your site administrator to change visual composer Role Manager "
 "settings for your user role."
 msgstr ""
 "دور المستخدم الخاص بك قيدت الوصول إلى عناصر المحتوى. إذا لزم الأمر، اتصل "
@@ -11044,7 +11044,7 @@ msgstr "التحكم في وصول المستخدم إلى منشئ الشبكة
 
 #: include/./templates/pages/partials/vc-roles-parts/_post_settings.tpl.php:15
 msgid ""
-"Control access to Visual Composer page settings. Note: Disable page settings "
+"Control access to visual composer page settings. Note: Disable page settings "
 "to restrict editing of Custom CSS through page."
 msgstr ""
 "التحكم في الوصول إلى إعدادات المحرر المتطور : تنبيه تعطيل خيارات الصفحة يمنع "
@@ -11056,8 +11056,8 @@ msgstr "صفحات فقط"
 
 #: include/./templates/pages/partials/vc-roles-parts/_post_types.tpl.php:20
 msgid ""
-"Enable Visual Composer for pages, posts and custom post types. Note: By "
-"default Visual Composer is available for pages only."
+"Enable visual composer for pages, posts and custom post types. Note: By "
+"default visual composer is available for pages only."
 msgstr ""
 "تمكين المحرر المتطور للصفحات، والتدوينات وأنواع التدوينات المخصصة. ملاحظة: "
 "الافتراضي هو تفعيل المحرر المتطور للصفحات فقط"
@@ -11087,7 +11087,7 @@ msgstr "خيارات الإعدادات"
 
 #: include/./templates/pages/partials/vc-roles-parts/_settings.tpl.php:23
 msgid ""
-"Control access rights to Visual Composer admin settings tabs (e.g. General "
+"Control access rights to visual composer admin settings tabs (e.g. General "
 "Settings, Shortcode Mapper, ...)"
 msgstr ""
 "حقوق التحكم في الوصول إلى علامات التبويب إعدادات الادمن للمحرر المتطور (مثل "
@@ -11134,7 +11134,7 @@ msgstr "قوالب"
 
 #: include/./templates/pages/vc-settings/tab-vc-roles.php:15
 msgid ""
-"Control user group role access to the features and options of Visual Composer "
+"Control user group role access to the features and options of visual composer "
 "- manage WordPress default and custom roles."
 msgstr ""
 "التحكم في ادوار مجموعة المستخدم بالمميزات والخيارات بالمحرر المتطور , ادارة "
@@ -11182,23 +11182,23 @@ msgstr "استعادة الحالة الافتراضية"
 
 #: include/./templates/pages/vc-settings/tab.php:80
 msgid ""
-"You have activated Visual Composer version which allows you to access all the "
-"customer benefits. Thank you for choosing Visual Composer as your page "
-"builder. If you do not wish to use Visual Composer on this WordPress site you "
+"You have activated visual composer version which allows you to access all the "
+"customer benefits. Thank you for choosing visual composer as your page "
+"builder. If you do not wish to use visual composer on this WordPress site you "
 "can deactivate your license below."
 msgstr ""
 
 # Label: auto
 #: include/./templates/pages/vc-settings/tab.php:91
 #, fuzzy
-#| msgid "Edit with Visual Composer"
-msgid "Deactivate Visual Composer"
+#| msgid "Edit with visual composer"
+msgid "Deactivate visual composer"
 msgstr "تحرير الصفحة بواسطة المحرر المتطور"
 
 #: include/./templates/pages/vc-settings/tab.php:101
 msgid ""
-"In order to receive all benefits of Visual Composer, you need to activate "
-"your copy of the plugin. By activating Visual Composer license you will "
+"In order to receive all benefits of visual composer, you need to activate "
+"your copy of the plugin. By activating visual composer license you will "
 "unlock premium options - <strong>direct plugin updates</strong>, access to "
 "<strong>template library</strong> and <strong>official support.</strong>"
 msgstr ""
@@ -11207,12 +11207,12 @@ msgstr ""
 #, php-format
 msgid ""
 "Don't have direct license yet? <a href=\"%s\" target=\"_blank\">Purchase "
-"Visual Composer license</a>."
+"visual composer license</a>."
 msgstr ""
 
 #: include/./templates/pages/vc-welcome/index.php:8
 #, php-format
-msgid "Welcome to Visual Composer %s"
+msgid "Welcome to visual composer %s"
 msgstr "مرحبا بك في المحرر المتطور الاصدار  %s"
 
 #: include/./templates/pages/vc-welcome/index.php:11
@@ -11232,7 +11232,7 @@ msgid "Version %s"
 msgstr "الًاصدار %s"
 
 #: include/./templates/pages/vc-welcome/vc-faq.php:7
-msgid "New to Visual Composer or Looking for More Information?"
+msgid "New to visual composer or Looking for More Information?"
 msgstr "هل انت جديد في استخدام المحرر المتطور ؟ او تبحث عن معلومات ؟"
 
 #: include/./templates/pages/vc-welcome/vc-faq.php:9
@@ -11240,7 +11240,7 @@ msgstr "هل انت جديد في استخدام المحرر المتطور ؟ 
 msgid ""
 "WPBakery has complete documentation available at our knowledge base: <a "
 "target=\"_blank\" href=\"%s\">kb.wpbakery.com</a> which covers everything "
-"related to Visual Composer starting from Installation and up to more advanced "
+"related to visual composer starting from Installation and up to more advanced "
 "features based on our Inner API."
 msgstr ""
 "WPBakery لديه وثائق كاملة متوفرة في قاعدة المعرفة لدينا: <a target=\"_blank\" "
@@ -11253,7 +11253,7 @@ msgstr "زيارة قاعدة المعارف لمزيد من المعلومات"
 
 #: include/./templates/pages/vc-welcome/vc-resources.php:11
 msgid ""
-"There are several resources available to Visual Composer users to help you to "
+"There are several resources available to visual composer users to help you to "
 "get around plugin:"
 msgstr ""
 "هناك العديد من الموارد المتاحة للمستخدمين للمحرر المتطور لمساعدتك في "
@@ -11271,7 +11271,7 @@ msgstr "الدعم الفني "
 #| "please head over to our <a href=\"%s\" target=\"_blank\">support page</a> "
 #| "and open Support ticket. To open support ticket you should have account in "
 #| "the ticket system. Registration should take you couple of minutes to "
-#| "complete and is completely automatic process. Prepare your Visual Composer "
+#| "complete and is completely automatic process. Prepare your visual composer "
 #| "<a href=\"%s\" target=\"_blank\">Purchase code</a> and fill in \"Create "
 #| "account in Ticket system\" form located at <a href=\"%s\" target=\"_blank"
 #| "\">support page</a>, then follow on screen instructions."
@@ -11322,7 +11322,7 @@ msgstr ""
 
 #: include/./templates/pages/vc-welcome/vc-welcome.php:24
 msgid ""
-"Add a custom id to any Visual Composer element to have a direct link or other "
+"Add a custom id to any visual composer element to have a direct link or other "
 "referral."
 msgstr ""
 
@@ -11353,7 +11353,7 @@ msgstr ""
 #, php-format
 msgid ""
 "Responsive design settings are currently disabled. You can enable them in "
-"Visual Composer <a href=\"%s\">settings page</a> by unchecking \"Disable "
+"visual composer <a href=\"%s\">settings page</a> by unchecking \"Disable "
 "responsive content elements\"."
 msgstr ""
 "اعدادات الريسبونسيف حالياً معطلة. يمكنك تفعيلها بالمحرر المتطور من<a href=\"%s"
@@ -11469,7 +11469,7 @@ msgstr "مميزة"
 
 # Label: auto
 #~ msgid ""
-#~ "Hola! Please <a href=\"%s\">activate your copy</a> of Visual Composer to "
+#~ "Hola! Please <a href=\"%s\">activate your copy</a> of visual composer to "
 #~ "receive automatic updates."
 #~ msgstr ""
 #~ "برجاء <a href=\"%s\">تفعيل نسختك من</a> المحرر المتقدم لاستقبال جديد "
@@ -11489,7 +11489,7 @@ msgstr "مميزة"
 #~ msgid "Secret API Key"
 #~ msgstr "المفتاح السري ل API"
 
-#~ msgid "Visual Composer License Key"
+#~ msgid "visual composer License Key"
 #~ msgstr "مفتاح الرخصة للمحرر المتطور"
 
 #~ msgid ""
@@ -11540,7 +11540,7 @@ msgstr "مميزة"
 #~ "قراءة <a href=\" %s \" target=\"_blank\"> الوثائق التعليمية </A>."
 
 #~ msgid ""
-#~ "Please enter your CodeCanyon Visual Composer license key, you can find "
+#~ "Please enter your CodeCanyon visual composer license key, you can find "
 #~ "your key by following the instructions on <a href=\"%s\" target=\"_blank"
 #~ "\">this page</a>. (Example of license key: bjg759fk-"
 #~ "kvta-6584-94h6-75jg8vblatftq)"
@@ -11562,7 +11562,7 @@ msgstr "مميزة"
 
 #~ msgid ""
 #~ "A valid license key qualifies you for support and enables automatic "
-#~ "updates. <strong>A license key may only be used for one Visual Composer "
+#~ "updates. <strong>A license key may only be used for one visual composer "
 #~ "installation on one WordPress site at a time.</strong> If you previosly "
 #~ "activated your license key on another site, then you should deactivate it "
 #~ "first or <a href=\"%s\" target=\"_blank\">obtain new license key</a>."
@@ -11577,7 +11577,7 @@ msgstr "مميزة"
 #~ msgstr "تحميل النسخة الجديدة من CodeCanyon."
 
 # Label: auto
-#~ msgid "Update Visual Composer now."
+#~ msgid "Update visual composer now."
 #~ msgstr "تحديث المحرر المتطور الان"
 
 # Label: auto
@@ -13674,7 +13674,7 @@ msgstr "مميزة"
 #~ msgstr "المزيد من التحكم مع واجهه سريعة"
 
 #~ msgid ""
-#~ "Visual Composer 4.8 offers smart controls for easy and powerful user group "
+#~ "visual composer 4.8 offers smart controls for easy and powerful user group "
 #~ "role access. Now you can reduce number of options and features available "
 #~ "to your content editors or people with non-IT skills. This results in less "
 #~ "things to learn in order to start managing content of your site."
@@ -13707,7 +13707,7 @@ msgstr "مميزة"
 #~ msgstr "Minimized CSS"
 
 #~ msgid ""
-#~ "Minimized CSS allows reducing size of Visual Composer plugin and also have "
+#~ "Minimized CSS allows reducing size of visual composer plugin and also have "
 #~ "positive effect on overall performance as there is less data to load."
 #~ msgstr ""
 #~ "Minimized CSS يسمح لك بتقليل حجم ملفات التنسيق للمحرر المتطور ايضا له "
@@ -13716,7 +13716,7 @@ msgstr "مميزة"
 #~ msgid "Element Presets Controls API"
 #~ msgstr "عنصر التحكم المسبقة API"
 
-#~ msgid "Control element presets and set default by using Visual Composer API."
+#~ msgid "Control element presets and set default by using visual composer API."
 #~ msgstr ""
 #~ "التحكم بالعناصر المسبقة والضبط للافتراضي عن طريق استخدام API للمحرر "
 #~ "المتطور "

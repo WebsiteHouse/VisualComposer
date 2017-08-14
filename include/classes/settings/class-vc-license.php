@@ -4,7 +4,7 @@ if ( ! defined( 'ABSPATH' ) ) {
 }
 
 /**
- * WPBakery Visual Composer Plugin
+ * WPBakery visual composer Plugin
  *
  * @package WPBakeryVisualComposer
  *
@@ -105,14 +105,14 @@ class Vc_License {
 	 * Output successful activation message
 	 */
 	function outputActivatedSuccess() {
-		$this->outputNotice( __( 'Visual Composer successfully activated.', 'js_composer' ), true );
+		$this->outputNotice( __( 'visual composer successfully activated.', 'js_composer' ), true );
 	}
 
 	/**
 	 * Output successful deactivation message
 	 */
 	function outputDeactivatedSuccess() {
-		$this->outputNotice( __( 'Visual Composer successfully deactivated.', 'js_composer' ), true );
+		$this->outputNotice( __( 'visual composer successfully deactivated.', 'js_composer' ), true );
 	}
 
 	/**

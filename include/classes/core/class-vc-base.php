@@ -4,7 +4,7 @@ if ( ! defined( 'ABSPATH' ) ) {
 }
 
 /**
- * Visual Composer basic class.
+ * visual composer basic class.
  * @since 4.2
  */
 class Vc_Base {
@@ -623,10 +623,10 @@ class Vc_Base {
 	 */
 	public function pluginActionLinks( $links, $file ) {
 		if ( plugin_basename( vc_path_dir( 'APP_DIR', '/js_composer.php' ) ) == $file ) {
-			$title = __( 'Visual Composer Settings', 'js_composer' );
+			$title = __( 'visual composer Settings', 'js_composer' );
 			$html = esc_html__( 'Settings', 'js_composer' );
 			if ( ! vc_user_access()->part( 'settings' )->can( 'vc-general-tab' )->get() ) {
-				$title = __( 'About Visual Composer', 'js_composer' );
+				$title = __( 'About visual composer', 'js_composer' );
 				$html = esc_html__( 'About', 'js_composer' );
 			}
 			$link = '<a title="' . esc_attr( $title ) . '" href="' . esc_url( $this->getSettingsPageLink() ) . '">' . $html . '</a>';
@@ -656,7 +656,7 @@ class Vc_Base {
 	 * @access public
 	 */
 	public function addMetaData() {
-		echo '<meta name="generator" content="Powered by Visual Composer - drag and drop page builder for WordPress."/>' . "\n";
+		echo '<meta name="generator" content="Powered by visual composer - drag and drop page builder for WordPress."/>' . "\n";
 	}
 
 	/**
@@ -758,7 +758,7 @@ class Vc_Base {
 			'add_image' => __( 'Add Image', 'js_composer' ),
 			'add_images' => __( 'Add Images', 'js_composer' ),
 			'settings' => __( 'Settings', 'js_composer' ),
-			'main_button_title' => __( 'Visual Composer', 'js_composer' ),
+			'main_button_title' => __( 'visual composer', 'js_composer' ),
 			'main_button_title_backend_editor' => __( 'BACKEND EDITOR', 'js_composer' ),
 			'main_button_title_frontend_editor' => __( 'FRONTEND EDITOR', 'js_composer' ),
 			'main_button_title_revert' => __( 'CLASSIC MODE', 'js_composer' ),

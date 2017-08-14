@@ -4,7 +4,7 @@ if ( ! defined( 'ABSPATH' ) ) {
 }
 
 /**
- * WPBakery Visual Composer shortcode attributes fields
+ * WPBakery visual composer shortcode attributes fields
  *
  * @package WPBakeryVisualComposer
  *

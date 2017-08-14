@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: Visual Composer\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-11-09 10:21+0200\n"
-"PO-Revision-Date: 2016-11-09 10:21+0200\n"
-"Last-Translator: Michael M <hello@wpbakery.com>\n"
+"PO-Revision-Date: 2017-08-13 10:43-0800\n"
+"Last-Translator: Pouya Tavafi <p.tavafi@websitehouse.ir>\n"
 "Language-Team: iran farda co (iran4all.ir) <amintab2001@gmail.com>\n"
 "Language: fa_IR\n"
 "MIME-Version: 1.0\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Poedit-KeywordsList: __;_e;esc_attr__\n"
 "X-Poedit-Basepath: ..\n"
-"X-Generator: Poedit 1.5.4\n"
+"X-Generator: Poedit 1.6.10\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 "X-Poedit-SearchPath-0: ./config/.\n"
 "X-Poedit-SearchPath-1: ./include/.\n"
@@ -487,7 +487,7 @@ msgstr ""
 
 #: config/./templates.php:218
 msgid "Description with headings"
-msgstr ""
+msgstr "عنوان + خط افقی<br>----این شکلی ----"
 
 #: config/./templates.php:228
 msgid "Video with description"
@@ -2001,12 +2001,12 @@ msgstr ""
 #: config/./containers/shortcode-vc-row.php:7
 #: include/./params/vc_grid_item/shortcodes.php:293
 msgid "Row"
-msgstr "ردیف"
+msgstr "سطر"
 
 #: config/./containers/shortcode-vc-row.php:13
 #: include/./params/vc_grid_item/shortcodes.php:303
 msgid "Place content elements inside the row"
-msgstr "المانهای محتوا را در ردیف قرار بده."
+msgstr "آیتم های مختلف را در یک سطر بچینید"
 
 #: config/./containers/shortcode-vc-row.php:17
 msgid "Row stretch"
@@ -2153,7 +2153,7 @@ msgstr "بخش"
 
 #: config/./containers/shortcode-vc-section.php:19
 msgid "Group multiple rows in section"
-msgstr ""
+msgstr "چند سطر را در یک بخش کلی تر بچینید"
 
 #: config/./containers/shortcode-vc-section.php:23
 msgid "Section stretch"
@@ -2233,7 +2233,7 @@ msgstr "بلاک متن"
 
 #: config/./content/shortcode-vc-column-text.php:11
 msgid "A block of text with WYSIWYG editor"
-msgstr "بلاک متن با ویرایشگر WYSIWYG "
+msgstr "متون + تصاویر به صورت ساده"
 
 #: config/./content/shortcode-vc-column-text.php:18
 msgid ""
@@ -2895,7 +2895,7 @@ msgstr ""
 
 #: config/./content/shortcode-vc-message.php:21
 msgid "Message Box"
-msgstr "باکس پیغام"
+msgstr "باکس های رنگی برای هشدار، اطلاعات، توضیحات و ..."
 
 #: config/./content/shortcode-vc-message.php:25
 msgid "Notification box"
@@ -3408,7 +3408,7 @@ msgstr "رنگ سفارشی مرزها"
 
 #: config/./content/shortcode-vc-separator.php:38
 msgid "Select border color for your element."
-msgstr "انتخاب رنگ مرزهای المانها"
+msgstr "انتخاب رنگ مرزهای آیتم ها"
 
 #: config/./content/shortcode-vc-separator.php:49
 #: config/./content/shortcode-vc-text-separator.php:102
@@ -3428,7 +3428,7 @@ msgstr ""
 #: config/./content/shortcode-vc-separator.php:60
 #: config/./content/shortcode-vc-text-separator.php:113
 msgid "Element width"
-msgstr "عرض المان"
+msgstr "عرض آیتم"
 
 #: config/./content/shortcode-vc-separator.php:63
 msgid "Select separator width (percentage)."
@@ -3568,7 +3568,7 @@ msgstr ""
 
 #: config/./content/shortcode-vc-text-separator.php:91
 msgid "Custom separator color for your element."
-msgstr "رنگ سفارشی جداکننده برای المان شما"
+msgstr "رنگ سفارشی جداکننده برای آیتم شما"
 
 #: config/./content/shortcode-vc-text-separator.php:116
 msgid "Separator element width in percents."
@@ -3776,7 +3776,7 @@ msgstr "انتخاب استایل فونت"
 
 #: config/./content/vc-icon-element.php:12
 msgid "Eye catching icons from libraries"
-msgstr ""
+msgstr "کتابخانه های مختلف آیکون !"
 
 #: config/./content/vc-icon-element.php:24
 msgid "Material"
@@ -4930,7 +4930,7 @@ msgstr "دکمه Tweetmeme"
 
 #: config/./social/shortcode-vc-tweetmeme.php:11
 msgid "Tweet button"
-msgstr ""
+msgstr "دکمه توئیتر"
 
 #: config/./social/shortcode-vc-tweetmeme.php:16
 msgid "Choose a button"
@@ -5918,16 +5918,16 @@ msgstr ""
 
 #: include/./autoload/vc-pointers-backend-editor.php:29
 msgid "Welcome to Visual Composer"
-msgstr ""
+msgstr "به ویژوال کامپوزر نسخه اصلاح شده وب سایت هاوس خوش آمدید"
 
 #: include/./autoload/vc-pointers-backend-editor.php:30
 msgid "Choose Backend or Frontend editor."
-msgstr ""
+msgstr "حالت ویرایش صفحه را انتخاب کنید<br>جهت"
 
 #: include/./autoload/vc-pointers-backend-editor.php:43
 #: include/./autoload/vc-pointers-frontend-editor.php:25
 msgid "Add Elements"
-msgstr ""
+msgstr "اضافه کردن آیتم"
 
 #: include/./autoload/vc-pointers-backend-editor.php:44
 #: include/./autoload/vc-pointers-frontend-editor.php:26
@@ -6100,7 +6100,7 @@ msgstr ""
 
 #: include/./classes/core/class-vc-base.php:833
 msgid "BACKEND EDITOR"
-msgstr "BACKEND EDITOR"
+msgstr "ویژوال کامپوزر"
 
 #: include/./classes/core/class-vc-base.php:834
 msgid "FRONTEND EDITOR"
@@ -6558,7 +6558,7 @@ msgstr "لغو همه ی تغییرات و بازگشت به داشبورد ور
 
 #: include/./classes/editors/navbar/class-vc-navbar-frontend.php:120
 msgid "Backend Editor"
-msgstr ""
+msgstr "ویژوال کامپوزر"
 
 #: include/./classes/editors/navbar/class-vc-navbar-frontend.php:130
 msgid "Save Draft"
@@ -6656,12 +6656,14 @@ msgstr "ذخیره طرح فعلی به عنوان یک قالب"
 #: include/./classes/editors/popups/class-vc-templates-panel-editor.php:100
 #: include/./templates/editors/popups/panel_templates_editor.tpl.php:47
 msgid "Save Template"
-msgstr ""
+msgstr "ذخیره به عنوان قالب"
 
 #: include/./classes/editors/popups/class-vc-templates-panel-editor.php:103
 #: include/./templates/editors/popups/panel_templates_editor.tpl.php:50
 msgid "Save layout and reuse it on different sections of this site."
 msgstr ""
+"شما می توانید آیتم هایی را که در صفحه حال حاضر ویژوال کامپوزر ساختید به "
+"عنوان یک قالب ذخیره کنید"
 
 #: include/./classes/editors/popups/class-vc-templates-panel-editor.php:415
 msgid "Error: wrong template id."
@@ -6669,11 +6671,12 @@ msgstr ""
 
 #: include/./classes/editors/popups/class-vc-templates-panel-editor.php:538
 msgid "My Templates"
-msgstr ""
+msgstr "قالب های من"
 
 #: include/./classes/editors/popups/class-vc-templates-panel-editor.php:539
 msgid "Append previously saved template to the current layout."
 msgstr ""
+"اگر قبلا قالبی ذخیره کرده اید می توانید آن را در صفحه ی فعلی فراخوانی کنید"
 
 #: include/./classes/editors/popups/class-vc-templates-panel-editor.php:563
 msgid "Default Templates"
@@ -6945,11 +6948,11 @@ msgstr "فعال کردن رنگ پس زمینه تب"
 
 #: include/./classes/settings/class-vc-settings.php:251
 msgid "Disable responsive content elements"
-msgstr "غیرفعالسازی المان های محتوای ریسپانسیو"
+msgstr "حالت واکنشگرا (Responsive)"
 
 #: include/./classes/settings/class-vc-settings.php:259
 msgid "Google fonts subsets"
-msgstr "زیرمجموعه های فونت های گوگل"
+msgstr "&nbsp;"
 
 #: include/./classes/settings/class-vc-settings.php:274
 msgid "Use custom design options"
@@ -9385,7 +9388,7 @@ msgstr ""
 #: include/./templates/editors/partials/templates_search.tpl.php:11
 #: include/./templates/editors/popups/shared-templates/category.tpl.php:42
 msgid "Search template by name"
-msgstr ""
+msgstr "در قالب ها جستجو کنید"
 
 #: include/./templates/editors/partials/vc_ui-settings-dropdown.tpl.php:10
 msgid "Element Settings"
@@ -9394,6 +9397,9 @@ msgstr ""
 #: include/./templates/editors/partials/vc_welcome_block.tpl.php:23
 msgid "You have blank page <br> Start adding content or templates"
 msgstr ""
+"صفحه خالی است !</br><p style='/font-size:12px;text-align:center'/>با ویژوال "
+"کامپوزر شما می توانید صفحات سایت را بدون نیاز به دانش برنامه نویسی طراحی "
+"کنید!</p>"
 
 #: include/./templates/editors/partials/vc_welcome_block.tpl.php:36
 #: include/./templates/editors/partials/vc_welcome_block.tpl.php:77
@@ -9411,22 +9417,24 @@ msgstr "افزودن بلاک متن"
 
 #: include/./templates/editors/partials/vc_welcome_block.tpl.php:52
 msgid "Add Text Block"
-msgstr ""
+msgstr "متن اضافه کنید"
 
 #: include/./templates/editors/partials/vc_welcome_block.tpl.php:63
 #: include/./templates/editors/popups/shared-templates/category.tpl.php:141
 #: include/./templates/editors/popups/shared-templates/category.tpl.php:143
 msgid "Add template"
-msgstr ""
+msgstr "قالب اضافه کنید"
 
 #: include/./templates/editors/partials/vc_welcome_block.tpl.php:84
 msgid "knowledge base"
-msgstr ""
+msgstr "مرکز آموزش"
 
 #: include/./templates/editors/partials/vc_welcome_block.tpl.php:85
 #, php-format
 msgid "Don't know where to start? Visit our %s."
 msgstr ""
+"اگر راجع به ویژوال کامپوزر نیاز به آموزش دارید می توانید از %s ویژه مشتریان "
+"<a href='http://wehbsitehouse.ir'>وب سایت هاوس</a> استفاده کنید"
 
 #: include/./templates/editors/popups/panel_multi_shortcode_edit_form.tpl.php:9
 #: include/./templates/editors/popups/panel_shortcode_edit_form.tpl.php:9
@@ -9479,7 +9487,7 @@ msgstr ""
 
 #: include/./templates/editors/popups/vc_ui-panel-post-settings.tpl.php:9
 msgid "Page Settings"
-msgstr ""
+msgstr "تنظیمات صفحه"
 
 #: include/./templates/editors/popups/vc_ui-panel-post-settings.tpl.php:22
 msgid "Please enter page title"
@@ -9500,6 +9508,8 @@ msgstr "تنظیمات css سفارشی"
 msgid ""
 "Enter custom CSS (Note: it will be outputted only on this particular page)."
 msgstr ""
+"کدهای CSS خود را در این قسمت می توانید وارد کنید. توجه داشته باشید این کدها "
+"فقط در همین صفحه اعمال می شوند"
 
 #: include/./templates/editors/popups/vc_ui-panel-row-layout.tpl.php:9
 msgid "Row Layout"
@@ -10677,9 +10687,9 @@ msgstr "توئیت"
 
 #~ msgid ""
 #~ "<strong>Deprecated:</strong> To override class names that are applied to "
-#~ "Visual Composer content elements you should use WordPress add_filter"
-#~ "('vc_shortcodes_css_class') function. <a class='vc_show_example'>See "
-#~ "Example</a>."
+#~ "Visual Composer content elements you should use WordPress "
+#~ "add_filter('vc_shortcodes_css_class') function. <a "
+#~ "class='vc_show_example'>See Example</a>."
 #~ msgstr ""
 #~ "نامناسب: برای نادیده گرفتن نام کلاسهای به کار گرفته شده در المانهای "
 #~ "محتوای visual composer باید از تابع وردپرسی add_filter "
