@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: Visual Composer\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-11-09 10:21+0200\n"
-"PO-Revision-Date: 2017-08-13 10:43-0800\n"
+"PO-Revision-Date: 2017-08-14 05:31-0800\n"
 "Last-Translator: Pouya Tavafi <p.tavafi@websitehouse.ir>\n"
 "Language-Team: iran farda co (iran4all.ir) <amintab2001@gmail.com>\n"
 "Language: fa_IR\n"
@@ -2562,11 +2562,11 @@ msgstr "انتخاب کنید که لینکهای سفارشی کجا باز ش�
 
 #: config/./content/shortcode-vc-gmaps.php:7
 msgid "Google Maps"
-msgstr "گوگل مپ"
+msgstr "نقشه گوگل"
 
 #: config/./content/shortcode-vc-gmaps.php:11
 msgid "Map block"
-msgstr "بلاک نقشه"
+msgstr "کروکی از دفتر یا نشانی خاص ایجاد کنید"
 
 #: config/./content/shortcode-vc-gmaps.php:21
 msgid "Map embed iframe"
